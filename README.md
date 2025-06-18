@@ -1,4 +1,4 @@
-# Movie_library_C++
+# Movie library C++
 
 I have created a system for recording movies. I store the titles, play times, release years, and IMDb ratings of movies. There is an age limit for family movies, and I store a text description for documentaries.
 
