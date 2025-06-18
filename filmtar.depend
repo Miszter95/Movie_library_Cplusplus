@@ -1,0 +1,274 @@
+# depslib dependency file v1.0
+1524252712 source:f:\code..basic feladatok\filmtar\csaladi_filmek.cpp
+	"csaladi_filmek.h"
+
+1494284214 f:\code..basic feladatok\filmtar\csaladi_filmek.h
+	<iostream>
+	"memtrace.h"
+	"filmek.h"
+
+1524252712 f:\code..basic feladatok\filmtar\filmek.h
+	<iostream>
+	"memtrace.h"
+
+1524252712 f:\code..basic feladatok\filmtar\dokumentum_filmek.h
+	<iostream>
+	"memtrace.h"
+	"filmek.h"
+
+1524252712 source:f:\code..basic feladatok\filmtar\dokumentum_filmek.cpp
+	"dokumentum_filmek.h"
+
+1524850569 source:f:\code..basic feladatok\filmtar\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<string>
+	"memtrace.h"
+	"filmek.h"
+	"csaladi_filmek.h"
+	"dokumentum_filmek.h"
+	"filmtar.h"
+
+1494290898 source:f:\code..basic feladatok\filmtar\filmek.cpp
+	"filmek.h"
+
+1524850280 source:f:\code..basic feladatok\filmtar\filmtar.cpp
+	"filmtar.h"
+
+1494327032 f:\code..basic feladatok\filmtar\filmtar.h
+	<string.h>
+	<fstream>
+	"memtrace.h"
+	"filmek.h"
+
+1487550012 f:\code..basic feladatok\filmtar\memtrace.h
+	<new>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1487550006 source:f:\code..basic feladatok\filmtar\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1494190260 source:d:\code..basic-feladatok\filmtar\csaladi_filmek.cpp
+	"csaladi_filmek.h"
+
+1494196812 d:\code..basic-feladatok\filmtar\csaladi_filmek.h
+	<iostream>
+	"filmek.h"
+
+1494239635 d:\code..basic-feladatok\filmtar\filmek.h
+	<iostream>
+
+1494190272 source:d:\code..basic-feladatok\filmtar\dokumentum_filmek.cpp
+	"dokumentum_filmek.h"
+
+1494196812 d:\code..basic-feladatok\filmtar\dokumentum_filmek.h
+	<iostream>
+	"filmek.h"
+
+1494196736 source:d:\code..basic-feladatok\filmtar\filmek.cpp
+	"filmek.h"
+
+1494251770 source:d:\code..basic-feladatok\filmtar\filmtar.cpp
+	"filmtar.h"
+
+1494251633 d:\code..basic-feladatok\filmtar\filmtar.h
+	"filmek.h"
+	<string.h>
+	<fstream>
+
+1494251962 source:d:\code..basic-feladatok\filmtar\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	"filmek.h"
+	"csaladi_filmek.h"
+	"dokumentum_filmek.h"
+	"filmtar.h"
+
+1525104025 source:f:\code..basic feladatok\filmtar (hazihoz kell)\csaladi_filmek.cpp
+	"csaladi_filmek.h"
+
+1525104025 f:\code..basic feladatok\filmtar (hazihoz kell)\csaladi_filmek.h
+	<iostream>
+	"memtrace.h"
+	"filmek.h"
+
+1487550012 f:\code..basic feladatok\filmtar (hazihoz kell)\memtrace.h
+	<new>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1526139188 f:\code..basic feladatok\filmtar (hazihoz kell)\filmek.h
+	<iostream>
+	"memtrace.h"
+
+1525105410 source:f:\code..basic feladatok\filmtar (hazihoz kell)\dokumentum_filmek.cpp
+	"dokumentum_filmek.h"
+
+1525104025 f:\code..basic feladatok\filmtar (hazihoz kell)\dokumentum_filmek.h
+	<iostream>
+	"memtrace.h"
+	"filmek.h"
+
+1525104025 source:f:\code..basic feladatok\filmtar (hazihoz kell)\filmek.cpp
+	"filmek.h"
+
+1487550006 source:f:\code..basic feladatok\filmtar (hazihoz kell)\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1525036698 source:f:\code..basic feladatok\filmtar (hazihoz kell)\filmtar.cpp
+	"filmtar.h"
+
+1525036416 f:\code..basic feladatok\filmtar (hazihoz kell)\filmtar.h
+	<string.h>
+	<fstream>
+	"memtrace.h"
+	"filmek.h"
+
+1525118335 source:f:\code..basic feladatok\filmtar (hazihoz kell)\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<string>
+	<ctype.h>
+	"memtrace.h"
+	"filmek.h"
+	"csaladi_filmek.h"
+	"dokumentum_filmek.h"
+	"filmtar.h"
+
+1526033836 source:d:\code..basic-feladatok\filmtar (hazihoz kell)\csaladi_filmek.cpp
+	"csaladi_filmek.h"
+
+1526033838 d:\code..basic-feladatok\filmtar (hazihoz kell)\csaladi_filmek.h
+	<iostream>
+	"memtrace.h"
+	"filmek.h"
+
+1487550012 d:\code..basic-feladatok\filmtar (hazihoz kell)\memtrace.h
+	<new>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1526139188 d:\code..basic-feladatok\filmtar (hazihoz kell)\filmek.h
+	<iostream>
+	"memtrace.h"
+
+1526033836 source:d:\code..basic-feladatok\filmtar (hazihoz kell)\dokumentum_filmek.cpp
+	"dokumentum_filmek.h"
+
+1526033838 d:\code..basic-feladatok\filmtar (hazihoz kell)\dokumentum_filmek.h
+	<iostream>
+	"memtrace.h"
+	"filmek.h"
+
+1525104026 source:d:\code..basic-feladatok\filmtar (hazihoz kell)\filmek.cpp
+	"filmek.h"
+
+1525036698 source:d:\code..basic-feladatok\filmtar (hazihoz kell)\filmtar.cpp
+	"filmtar.h"
+
+1525036416 d:\code..basic-feladatok\filmtar (hazihoz kell)\filmtar.h
+	<string.h>
+	<fstream>
+	"memtrace.h"
+	"filmek.h"
+
+1526034204 source:d:\code..basic-feladatok\filmtar (hazihoz kell)\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<string>
+	<ctype.h>
+	"memtrace.h"
+	"filmek.h"
+	"csaladi_filmek.h"
+	"dokumentum_filmek.h"
+	"filmtar.h"
+
+1487550006 source:d:\code..basic-feladatok\filmtar (hazihoz kell)\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1526026636 source:g:\g meghajto\c++ feladatok\filmtar (hazihoz kell)\csaladi_filmek.cpp
+	"csaladi_filmek.h"
+
+1526026638 g:\g meghajto\c++ feladatok\filmtar (hazihoz kell)\csaladi_filmek.h
+	<iostream>
+	"memtrace.h"
+	"filmek.h"
+
+1487546412 g:\g meghajto\c++ feladatok\filmtar (hazihoz kell)\memtrace.h
+	<new>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1526131988 g:\g meghajto\c++ feladatok\filmtar (hazihoz kell)\filmek.h
+	<iostream>
+	"memtrace.h"
+
+1526026636 source:g:\g meghajto\c++ feladatok\filmtar (hazihoz kell)\dokumentum_filmek.cpp
+	"dokumentum_filmek.h"
+
+1526026638 g:\g meghajto\c++ feladatok\filmtar (hazihoz kell)\dokumentum_filmek.h
+	<iostream>
+	"memtrace.h"
+	"filmek.h"
+
+1525096826 source:g:\g meghajto\c++ feladatok\filmtar (hazihoz kell)\filmek.cpp
+	"filmek.h"
+
+1525029498 source:g:\g meghajto\c++ feladatok\filmtar (hazihoz kell)\filmtar.cpp
+	"filmtar.h"
+
+1525029216 g:\g meghajto\c++ feladatok\filmtar (hazihoz kell)\filmtar.h
+	<string.h>
+	<fstream>
+	"memtrace.h"
+	"filmek.h"
+
+1526027004 source:g:\g meghajto\c++ feladatok\filmtar (hazihoz kell)\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<string>
+	<ctype.h>
+	"memtrace.h"
+	"filmek.h"
+	"csaladi_filmek.h"
+	"dokumentum_filmek.h"
+	"filmtar.h"
+
+1487546406 source:g:\g meghajto\c++ feladatok\filmtar (hazihoz kell)\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
