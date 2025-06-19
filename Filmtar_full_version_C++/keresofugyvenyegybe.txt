@@ -1,0 +1,48 @@
+void Filmtar::keres(int keresvalasz){
+    std::string szovege = "";
+    int kiad = 0;
+    int lejatsz = 0;
+    double IMDB = 0.0;
+    if(keresvalasz == 1){
+        std::cout<<"Ird be a keresett film cimet!"<<std::endl;
+        std::cin.ignore();
+        std::getline (std::cin,szovege);
+        std::cout<<std::endl;}
+    else if(keresvalasz == 2){
+        std::cout<<"Ird be a keresett film kiadasi evet!"<<std::endl;
+        std::cin>>kiad;
+        std::cout<<std::endl;
+    }
+    else if(keresvalasz == 3){
+        std::cout<<"Ird be a keresett film lejatszasi idejet! (percben)\nAz ennel rovidebb filmeket is meg fogja jeleniteni!"<<std::endl;
+        std::cin>>lejatsz;
+        std::cout<<std::endl;
+    }
+    else if(keresvalasz == 4){
+        std::cout<<"Ird be a keresett film IMDB pontjat!"<<std::endl;
+        std::cin>>IMDB;
+        std::cout<<std::endl;
+    }
+
+        int sora = 0;
+        for(int i=0;i<meret;++i){
+            std::string c = Tarolo[i]->getCim();
+            if(keresvalasz == 1 && c.compare(szovege)==0){
+                kiiras(Tarolo[i]);
+            }
+            else if(keresvalasz == 2 && Tarolo[i]->getKiadas()==kiad){
+                kiiras(Tarolo[i]);
+            }
+            else if(keresvalasz == 3 && Tarolo[i]->getLejatszas()<=lejatsz){
+                kiiras(Tarolo[i]);
+            }
+            else if(keresvalasz == 4 && Tarolo[i]->getIMDBpont()==IMDB){
+                kiiras(Tarolo[i]);
+            }
+            else{
+                sora++;
+            if(sora==meret){
+                std::cout<<"Ilyen film nem talalhato!"<<std::endl;
+                std::cout<<std::endl;}}
+        }
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\filmek.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:filmek.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\dokumentum_filmek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dokumentum_filmek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\dokumentum_filmek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dokumentum_filmek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\filmek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:filmek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "filmek.txt",
+              "DocumentMoniker": "D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\filmek.txt",
+              "RelativeDocumentMoniker": "filmek.txt",
+              "ToolTip": "D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\filmek.txt",
+              "RelativeToolTip": "filmek.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-19T04:17:41.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwEAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T04:12:31.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dokumentum_filmek.h",
+              "DocumentMoniker": "D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\dokumentum_filmek.h",
+              "RelativeDocumentMoniker": "dokumentum_filmek.h",
+              "ToolTip": "D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\dokumentum_filmek.h",
+              "RelativeToolTip": "dokumentum_filmek.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-19T04:11:27.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dokumentum_filmek.cpp",
+              "DocumentMoniker": "D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\dokumentum_filmek.cpp",
+              "RelativeDocumentMoniker": "dokumentum_filmek.cpp",
+              "ToolTip": "D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\dokumentum_filmek.cpp",
+              "RelativeToolTip": "dokumentum_filmek.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T04:11:19.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "filmek.cpp",
+              "DocumentMoniker": "D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\filmek.cpp",
+              "RelativeDocumentMoniker": "filmek.cpp",
+              "ToolTip": "D:\\Movie_library_Cplusplus\\Filmtar_full_version_C\u002B\u002B\\filmek.cpp",
+              "RelativeToolTip": "filmek.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T04:11:08.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
